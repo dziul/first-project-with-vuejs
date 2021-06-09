@@ -1,0 +1,26 @@
+{
+    "recommendations": [
+        "octref.vetur",
+
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "visualstudioexptteam.vscodeintellicode",
+
+        "mikestead.dotenv",
+        "editorconfig.editorconfig",
+        
+
+        "msjsdiag.debugger-for-chrome",
+        "firsttris.vscode-jest-runner",
+
+        "coenraads.bracket-pair-colorizer-2",
+        "vscode-icons-team.vscode-icons",
+        
+
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-portuguese-brazilian"
+    ]
+}

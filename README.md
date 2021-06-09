@@ -1,34 +1,17 @@
-# first-project-with-vuejs
+Projeto criado por `@vue/cli` com [configuração personalizado](https://cli.vuejs.org/config/).
 
-## Project setup
-```
-yarn install
-```
+#### VUEJS
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- [vuejs guide](https://v3.vuejs.org/guide/introduction.html)
+- [Modes and Environment Variables](https://cli.vuejs.org/guide/mode-and-env.html)
+- [Configuration Reference](https://cli.vuejs.org/config/)
+  > referente ao arquivo _vue.config.js_
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Run your end-to-end tests
-```
-yarn test:e2e
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+| comandos            | descrição                                    |
+| ------------------- | -------------------------------------------- |
+| `npm install`       | instalar dependências do projeto             |
+| `npm run serve`     | compilar e _hot-reload_ para desenvolvimento |
+| `npm run build`     | compilar e minificar para produção           |
+| `npm run test:unit` | testar os testes unitários                   |
+| `npm run test:e2e`  | testar os testes _end-to-end_                |
+| `npm run lint`      | _Lints_ e _fixes_ arquivos                   |
